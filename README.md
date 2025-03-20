@@ -1,4 +1,4 @@
-## Годовым отчётом для компании «Бест Мебель»
+## Годовой отчёт для компании «Бест Мебель»
 
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
