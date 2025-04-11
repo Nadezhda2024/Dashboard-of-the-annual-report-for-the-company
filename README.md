@@ -49,6 +49,11 @@
   - Языки DAX, М - создание «Расчетных столбцов», «Расчетных таблиц» и «Мер», которые помогут рассчитать значение для любого показателя
   - Power View — рисование графиков и диаграмм.
 
+![2025-04-11_13-41-53](https://github.com/user-attachments/assets/a2d04e54-ba80-4d19-955f-7e331aa19c6b)
+![2025-04-11_13-42-51](https://github.com/user-attachments/assets/2a012cc6-16d4-4c62-8eb6-83090f4b8416)
+![2025-04-11_13-43-34](https://github.com/user-attachments/assets/c9fbb89a-a8d6-4eb7-8ba7-2a7eb0f19f8b)
+
+
 
 
 
