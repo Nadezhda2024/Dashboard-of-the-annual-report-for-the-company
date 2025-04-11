@@ -48,6 +48,7 @@
   - Power Pivot — создание модели данных. Протягивание связей между столбцами отдельных таблиц, для создания интерактивности будущего дашборда
   - Языки DAX, М - создание «Расчетных столбцов», «Расчетных таблиц» и «Мер», которые помогут рассчитать значение для любого показателя
   - Power View — рисование графиков и диаграмм.
+### [Отчет-работы-в-DAX](https://github.com/Nadezhda2024/Dashboard-of-the-annual-report-for-the-company/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-DAX.pdf)
 
 ![2025-04-11_13-41-53](https://github.com/user-attachments/assets/a2d04e54-ba80-4d19-955f-7e331aa19c6b)
 ![2025-04-11_13-42-51](https://github.com/user-attachments/assets/2a012cc6-16d4-4c62-8eb6-83090f4b8416)
